@@ -7,8 +7,15 @@ pasta
 chicken fry
 
 
+bins
+pizza
+
 
 Thank you
 
 
+
+Done my changes
+
 final copy
+
